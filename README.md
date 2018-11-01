@@ -1,8 +1,8 @@
 # tizen
 
-*Typo
+*Typo 
  *http:://www.github.com 
-*coding style
- *
- * 
-build
+*coding style 
+ *  
+ *  
+build 
